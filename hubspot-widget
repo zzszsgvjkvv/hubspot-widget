@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>HubSpot Widget</title>
+  </head>
+  <body>
+    <!-- HubSpot Tracking Script -->
+    <script type="text/javascript" id="hs-script-loader"
+            async defer src="//js-eu1.hs-scripts.com/139837384.js"></script>
+  </body>
+</html>
